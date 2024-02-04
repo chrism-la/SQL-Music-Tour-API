@@ -1,4 +1,4 @@
-GET http://localhost:3000/bands/Tupac
+GET http://localhost:3000/bands/
 ###
 GET http://localhost:3000/events/DistortedTour
 ###
